@@ -1,7 +1,8 @@
 # Hey, I'm Kay 👋
 
 ### :house: Find me at:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kay-watts/)](https://www.linkedin.com/in/kay-watts/)
+[![Linkedin Badge](https://img.shields.io/badge/-kaywatts-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kay-watts/)](https://www.linkedin.com/in/kay-watts/)
+[![Gmail Badge](https://img.shields.io/badge/-kwatts949-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kwatts949@gmail.com)](mailto:kwatts949@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/kwatts949.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kwatts949?tab=followers)
 
 
