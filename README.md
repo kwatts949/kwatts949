@@ -33,8 +33,8 @@
 
 <div align='center'>
   
-![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kwatts949&show_icons=true&theme=tokyonight&hide_border=true)<br>
-![My Github Status](https://github-readme-stats.vercel.app/api?username=kwatts949&show_icons=true&theme=shades-of-purple&hide_border=true)
+![Top Used Language](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kwatts949&show_icons=true&theme=tokyonight&hide_border=true)<br>
+![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api?username=kwatts949&show_icons=true&theme=shades-of-purple&hide_border=true)
   
 </div>
 
@@ -46,10 +46,10 @@
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=Tipsy-Tourist" />
 </a>
 <a href="https://github.com/kwatts949/Acebook---A-Facebook-Clone">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kwatts949&repo=Acebook---A-Facebook-Clone" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=Acebook---A-Facebook-Clone" />
 </a>
 <a href="https://github.com/kwatts949/react">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kwatts949&repo=react" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=react" />
 </a>
 
 </div>
