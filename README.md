@@ -8,7 +8,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-kaywatts-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kay-watts/)](https://www.linkedin.com/in/kay-watts/)
 [![Gmail Badge](https://img.shields.io/badge/-kwatts949-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kwatts949@gmail.com)](mailto:kwatts949@gmail.com)
-[![CV Badge](https://img.shields.io/badge/-CV-darkgreen?style=flat&logo=ReadMe&logoColor=white&link=https://github.com/kwatts949/CurriculumVitae)](https://github.com/kwatts949/CV)
+[![CV Badge](https://img.shields.io/badge/-CV-darkgreen?style=flat&logo=ReadMe&logoColor=white&link=https://github.com/kwatts949/CurriculumVitae)](https://github.com/kwatts949/CurriculumVitae)
   
 </div>
 
