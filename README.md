@@ -48,6 +48,9 @@
 <a href="https://github.com/kwatts949/Acebook---A-Facebook-Clone">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kwatts949&repo=Acebook---A-Facebook-Clone" />
 </a>
+<a href="https://github.com/kwatts949/react">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kwatts949&repo=react" />
+</a>
 
 </div>
 
