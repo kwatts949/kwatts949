@@ -43,13 +43,13 @@
 <div align='center'>
   
 <a href="https://github.com/kwatts949/Tipsy-Tourist">
-  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=Tipsy-Tourist" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=Tipsy-Tourist" />
 </a>
 <a href="https://github.com/kwatts949/Acebook---A-Facebook-Clone">
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=Acebook---A-Facebook-Clone" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=Acebook---A-Facebook-Clone" />
 </a>
 <a href="https://github.com/kwatts949/react">
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=react" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=react" />
 </a>
 
 </div>
