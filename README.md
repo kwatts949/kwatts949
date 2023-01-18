@@ -51,6 +51,9 @@
 <a href="https://github.com/kwatts949/react">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=react" />
 </a>
+  <a href="https://github.com/kwatts949/personal-website">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=personal-website" />
+</a>
 
 </div>
 
