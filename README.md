@@ -30,6 +30,13 @@
 
 </div>
 
+<h3 align='center'> 🏫 I'm currently learning:<h3>
+  <div align='center'>
+  
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+   
+  </div>
+
 <h3 align='center'>🥇 Github Status:</h3>
 
 <div align='center'>
@@ -59,5 +66,7 @@
 
 
 </div>
+  
+
 
 
