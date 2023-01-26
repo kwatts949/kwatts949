@@ -33,7 +33,7 @@
 <h3 align='center'> 🏫 I'm currently learning:<h3>
   <div align='center'>
   
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
    
   </div>
 
