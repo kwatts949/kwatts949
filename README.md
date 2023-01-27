@@ -53,7 +53,7 @@
 <a href="https://github.com/kwatts949/Tipsy-Tourist">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=Tipsy-Tourist" />
 </a>
-<a href="(https://github.com/kwatts949/PokemonCardSearch)">
+<a href="https://github.com/kwatts949/PokemonCardSearch">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=PokemonCardSearch" />
 </a>
 <a href="https://github.com/kwatts949/react">
