@@ -65,7 +65,7 @@
   <a href="https://github.com/kwatts949/code-first-girls-challenges">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=code-first-girls-challenges" />
 </a>
-  <a href="https://github.com/kwatts949/code-reviews">
+    <a href="https://github.com/kwatts949/code-reviews">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=code-reviews" />
 </a>
   
