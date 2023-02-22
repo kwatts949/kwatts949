@@ -62,8 +62,8 @@
 <a href="https://github.com/kwatts949/PokemonCardSearch">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=PokemonCardSearch" />
 </a>
-  <a href="https://github.com/kwatts949/code-first-girls-challenges">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=code-first-girls-challenges" />
+  <a href="https://github.com/kwatts949/Exercism">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=Exercism" />
 </a>
     <a href="https://github.com/kwatts949/react">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kwatts949&repo=react" />
